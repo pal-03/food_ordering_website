@@ -1,3 +1,12 @@
+# Food Ordering Website
+
+Live Demo: [https://foodclone-one.vercel.app](https://foodclone-one.vercel.app)
+
+Repository: [https://github.com/pal-03/food_ordering_website](https://github.com/pal-03/food_ordering_website)
+
+Deployment: Vercel
+
+# Namaste React 🚀
 
 
 # Parcel
