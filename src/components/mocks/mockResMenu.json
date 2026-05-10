@@ -1,0 +1,114 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "12345",
+              "name": "Meghana Foods",
+              "cuisines": ["Biryani", "Andhra"],
+              "costForTwoMessage": "₹300 for two"
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Biriyani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1",
+                              "name": "Chicken Dum Biryani",
+                              "price": 29900,
+                              "description": "Classic chicken dum biryani with raita.",
+                              "imageId": "menu-item-1"
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2",
+                              "name": "Mutton Biryani",
+                              "price": 34900,
+                              "description": "Slow-cooked mutton biryani.",
+                              "imageId": "menu-item-2"
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3",
+                              "name": "Egg Biryani",
+                              "price": 23900,
+                              "description": "Fragrant rice with boiled eggs.",
+                              "imageId": "menu-item-3"
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4",
+                              "name": "Paneer Biryani",
+                              "price": 26900,
+                              "description": "Paneer biryani with fresh spices.",
+                              "imageId": "menu-item-4"
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5",
+                              "name": "Veg Biryani",
+                              "price": 21900,
+                              "description": "Vegetable biryani cooked in dum style.",
+                              "imageId": "menu-item-5"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6",
+                              "name": "Double Ka Meetha",
+                              "price": 12900,
+                              "description": "Traditional Hyderabadi dessert.",
+                              "imageId": "menu-item-6"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
