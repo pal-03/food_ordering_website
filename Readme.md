@@ -6,8 +6,6 @@ Repository: [https://github.com/pal-03/food_ordering_website](https://github.com
 
 Deployment: Vercel
 
-# Namaste React 🚀
-
 
 # Parcel
 - Dev Build
